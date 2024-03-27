@@ -42,18 +42,18 @@ theme: uncover
 
 # Slide 3
 
-Here are some examples of URLs:
+Hier zijn enkele voorbeelden van URL's:
 
-- https://www.example.com: This is a URL for a website using the HTTPS protocol.
-- http://api.example.com/v1/users?id=123: This is a URL for an API endpoint that retrieves user information with a query parameter.
-- file:///C:/Users/username/Documents/file.txt: This is a URL for a local file on your computer.
+- https://www.example.com: Dit is een URL voor een website met het HTTPS-protocol.
+- http://api.example.com/v1/users?id=123: Dit is een URL voor een API-eindpunt dat gebruikersinformatie ophaalt met een queryparameter.
+- file:///C:/Users/username/Documents/file.txt: Dit is een URL voor een lokaal bestand op uw computer.
 
-URLs can vary in complexity depending on the resource and the desired action.
+URL's kunnen variëren in complexiteit, afhankelijk van de bron en de gewenste actie.
 
 ---
 
 # Slide 4
 
-In conclusion, URLs are an integral part of the web and enable us to access and share resources across the internet. Understanding how URLs are structured and how to use them correctly is essential for web development and navigating the online world.
+In conclusie, URL's zijn een integraal onderdeel van het web en stellen ons in staat om bronnen op het internet te openen en te delen. Het begrijpen van hoe URL's zijn opgebouwd en hoe ze correct te gebruiken is essentieel voor webontwikkeling en het navigeren in de online wereld.
 
-Thank you for your attention!
+Bedankt voor uw aandacht!
