@@ -34,6 +34,10 @@ theme: uncover
 
 - URL staat voor Uniform Resource Locator en geeft het adres van een bron op het internet aan.
 - Het bestaat uit het protocol, de domeinnaam, het pad en de queryparameters.
+
+---
+
+
 - Het protocol specificeert de communicatieregels (bijv. HTTP of HTTPS).
 
 
