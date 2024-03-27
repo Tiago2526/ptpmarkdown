@@ -40,7 +40,7 @@ theme: uncover
 
 ---
 
-# Slide 3
+# voorbeelden
 
 Hier zijn enkele voorbeelden van URL's:
 
@@ -52,7 +52,7 @@ URL's kunnen variëren in complexiteit, afhankelijk van de bron en de gewenste a
 
 ---
 
-# Slide 4
+# conclusie
 
 In conclusie, URL's zijn een integraal onderdeel van het web en stellen ons in staat om bronnen op het internet te openen en te delen. Het begrijpen van hoe URL's zijn opgebouwd en hoe ze correct te gebruiken is essentieel voor webontwikkeling en het navigeren in de online wereld.
 
