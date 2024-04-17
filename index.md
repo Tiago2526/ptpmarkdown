@@ -25,7 +25,7 @@ footer: 'Coded by Tiago2526'
 
 # URL
 
-![bg](assets/images/url.jpg)
+
 
 ---
 ![bg left](assets/images/url.jpg)
