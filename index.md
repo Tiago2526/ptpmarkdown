@@ -1,72 +1,61 @@
 ---
 marp: true
 theme: uncover
----
+header: '![](./assets/images/markdown.jpg)'
+footer: 'Coded by Tiago2526'
+---   
 <style>
-    {
-        background-color: black;
-        color: white;
+    header {
+        display: flex;
+        justify-content: flex-start;
+        height: 50px;
     }
 
-    section.firstSlide {
-        text-align: center;
+    h1 {
+        display: flex;
+        background-color: white;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        border-radius: 20px;
+        width: max-content;
+        padding: 8px 32px;
     }
-
-    section.firstSlide image {
-        opacity: 0.5;
-    }
-
-
 </style>
-<!--_class: firstSlide -->
+
 # URL
 
 ![bg](assets/images/url.jpg)
 
 ---
-<style>
-    {
-        font
-    }
-</style>
 ![bg left](assets/images/url.jpg)
-## Here are some key points about URLs:
+## Enkele belangrijke punten:
 
-- URL: Uniform Resource Locator en geeft het adres van een bron op het internet aan.
----
-
-- Het bestaat uit het protocol, de domeinnaam, het pad en de queryparameters.
-
----
-
-
-- Het protocol specificeert de communicatieregels (bijv. HTTP of HTTPS).
+- Uniform Resource Locator
+- Bestaat uit protocol, 
+- Domeinnaam, pad en queryparameters- 
 
 
 
 ---
+![bg left](assets/images/url.jpg)
+## Enkele belangrijke punten:
 
-# voorbeelden
+- Protocol specificeert communicatieregels (bijv. HTTP of HTTPS)
+---
+
+## Slide 3
 
 Hier zijn enkele voorbeelden van URL's:
 
-- https://www.example.com: Dit is een URL voor een website met het HTTPS-protocol.
----
+- Website: https://www.example.com (HTTPS)
+- API-eindpunt: http://api.example.com/v1/users?id=123
+- Lokaal bestand: file:///C:/Users/username/Documents/file.txt
 
-- http://api.example.com/v1/users?id=123: Dit is een URL voor een API-eindpunt dat gebruikersinformatie ophaalt met een queryparameter.
-
----
-
-- file:///C:/Users/username/Documents/file.txt: Dit is een URL voor een lokaal bestand op uw computer.
-
-URL's kunnen variëren in complexiteit, afhankelijk van de bron en de gewenste actie.
+URL's kunnen variëren in complexiteit.
 
 ---
 
-# conclusie
+## Slide 4
 
-In conclusie, URL's zijn een integraal onderdeel van het web en stellen ons in staat om bronnen op het internet te openen en te delen. Het begrijpen van hoe URL's zijn opgebouwd en hoe ze correct te gebruiken is essentieel voor webontwikkeling en het navigeren in de online wereld.
-
----
-
-Bedankt voor uw aandacht!
+URL's zijn essentieel voor het web. Ze geven toegang tot bronnen en delen informatie. Begrijpen en correct gebruiken is belangrijk voor webontwikkeling en navigatie.
