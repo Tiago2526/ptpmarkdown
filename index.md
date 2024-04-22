@@ -21,41 +21,68 @@ footer: 'Coded by Tiago2526'
         width: max-content;
         padding: 8px 32px;
     }
+
+    img[alt=image] {
+        width: 200px;
+        border-radius: 50px;
+    }
 </style>
 
 # URL
-
+![bg](assets/images/url2.jpg)
 
 
 ---
 ![bg left](assets/images/url.jpg)
-## Enkele belangrijke punten:
+## Belangrijke punten:
 
 - Uniform Resource Locator
 - Bestaat uit protocol, 
-- Domeinnaam, pad en queryparameters- 
+- Domeinnaam, Subdomein, pad en queryparameters
 
 
 
 ---
-![bg left](assets/images/url.jpg)
 ## Enkele belangrijke punten:
 
-- Protocol specificeert communicatieregels (bijv. HTTP of HTTPS)
+- Protocol: specificeert communicatieregels (bijv. HTTP of HTTPS)
+- Domeinnaam: naamgevingssysteem waarmee diensten en toepassingen kunnen ïdentificeerd
+
+
 ---
 
-## Slide 3
+## Enkele belangrijke punten:
+
+- Pad: Het pad geeft de locatie van een specifieke bron op de server aan.
+- Querystring: De querystring wordt gebruikt om parameters aan de URL toe te voegen.
+
+---
+
+## Enkele belangrijke punten:
+
+- Subdomein: een optioneel voorvoegsel voor het hoofddomein en wordt gevolgd door een punt.
+- Top Level Domain (TLD): het laatste gedeelte van het domein, zoals ".com", ".org", ".net", enzovoort.
+
+---
+
+## Enkele belangrijke punten:
+
+- Fragment (Anchor): Het fragment verwijst naar een specifiek gedeelte van de bron die wordt weergegeven.
+
+---
+
+## Voorbeelden
 
 Hier zijn enkele voorbeelden van URL's:
 
 - Website: https://www.example.com (HTTPS)
-- API-eindpunt: http://api.example.com/v1/users?id=123
-- Lokaal bestand: file:///C:/Users/username/Documents/file.txt
-
-URL's kunnen variëren in complexiteit.
+- API-eindpunt: http://api.example.com/users?id=123
+- Lokaal bestand: file:///C:/Users/username/file.txt
 
 ---
 
-## Slide 4
+## Conclusie
+
+![image](assets/images/url2.jpg)
 
 URL's zijn essentieel voor het web. Ze geven toegang tot bronnen en delen informatie. Begrijpen en correct gebruiken is belangrijk voor webontwikkeling en navigatie.
